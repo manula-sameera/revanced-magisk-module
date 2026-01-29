@@ -1,6 +1,6 @@
 {
-  "version": "v20.05.46 (patches 5.14.1)",
-  "versionCode": 8,
-  "zipUrl": "https://github.com/manula-sameera/revanced-magisk-module/releases/download/8/youtube-revanced-extended-magisk-v20.05.46-all.zip",
+  "version": "v20.05.46 (patches 5.14.1.rvp)",
+  "versionCode": 9,
+  "zipUrl": "https://github.com/manula-sameera/revanced-magisk-module/releases/download/9/youtube-revanced-extended-magisk-v20.05.46-all.zip",
   "changelog": "https://raw.githubusercontent.com/manula-sameera/revanced-magisk-module/update/build.md"
 }
